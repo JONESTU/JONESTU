@@ -9,3 +9,4 @@ My name is Tyshawn.
 
 <img align="left" alt="windows11-original" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="vscode-original" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="codium_cnl" width="30px" style="padding-right:10px;" src="https://vscodium.com/img/codium_cnl.svg"/>
